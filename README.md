@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Infabrot
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me: Mail: info@nolifegaming.ml & info@legendmilk.tk
 
 <!---

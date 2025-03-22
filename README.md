@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Infabrot
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me: Mail: info@nolifegaming.ml & info@legendmilk.tk
+- 📫 How to reach me: Mail: jonathan@krusemark.de
 
 <!---
 Infabrot/Infabrot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

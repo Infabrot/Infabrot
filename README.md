@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Infabrot
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently focusing on Network Managment
 - 📫 How to reach me: Mail: jonathan@krusemark.de
